@@ -1,7 +1,7 @@
 <div class="portlet box GREEN-JUNGLE ">
 	    <div class="portlet-title">
 	        <div class="caption">
-	            <i class="fa fa-list"></i>Tambah User</div>
+	            <i class="fa fa-list"></i>Tambah User HR</div>
 	        <div class="tools"> </div>
 	    </div>
 	    <div class="portlet-body" >
